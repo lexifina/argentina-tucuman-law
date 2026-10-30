@@ -1,0 +1,19 @@
+{
+ "country": "AR-T",
+ "acts": [
+  {
+   "slug": "constitucion",
+   "short": "Constitución",
+   "title": "Constitución de la Provincia de Tucumán",
+   "url": "https://www.legislaturadetucuman.gob.ar/constitucionProvincial",
+   "versions": [
+    {
+     "from": "2006-06-07",
+     "units": 171,
+     "source_url": "https://www.legislaturadetucuman.gob.ar/PDFs/constTucuman.pdf",
+     "sha256": "66e2292d3c6fe12ade3bbabe27f970511d45e13388e0eebfa5597ea5c873d4a5"
+    }
+   ]
+  }
+ ]
+}

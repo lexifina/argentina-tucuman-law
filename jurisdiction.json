@@ -1,0 +1,11 @@
+{
+  "path": "ar-t",
+  "code": "AR-T",
+  "name": "Tucumán",
+  "level": "province",
+  "parent": "ar",
+  "repo": "https://github.com/lexifina/argentina-tucuman-law",
+  "build": "built: constitution, codes and laws (1 norms, 1 versions) from https://www.legislaturadetucuman.gob.ar/constitucionProvincial",
+  "language": "es",
+  "sources": 1
+}
